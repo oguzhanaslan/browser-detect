@@ -1,6 +1,6 @@
 Browser-detect
 ==============
 Example :
-Automatic add the information to the browser in DOM elements. 
+Automatic add the information to the browser in DOM "html" elements. 
 
-<html class="ie11">
+
