@@ -50,6 +50,10 @@ Fotoğrafları kullanıcılar yüklerken, sıkıştırmayı ve istediğiniz çö
 
 Bu konuda https://kraken.io/ size cüzi bir ücret karşılığında yardımcı olacaktır. Bu işlemi backend tarafında, ücretsiz kütüphaneler ile halledebilirsiniz. Büyük çoğunluğu kalite ve boyut konusunda düşürme yapıyor diye biliyorum. 
 
+https://www.reddit.com/r/Android/comments/1x5ct6/image_compression_on_instagram/ şurada bu konu hakkında, son derece feyizli bir sohbet bulunuyor. Okumanızı tavsiye ederim.
+
+
+
 
 
 
